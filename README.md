@@ -11,25 +11,25 @@ This project aims to understand, analyze and visualize behaviors on data recorde
 
 ## Questions/topics to answer:
 
-1) Relationship between the type of shipping and how long it takes, from the purchase order to its corresponding start of shipping.					
+1. Relationship between the type of shipping and how long it takes, from the purchase order to its corresponding start of shipping.					
 
-2) Countries and cities with the highest and lowest purchases. Also see profit and loss.					
+2. Countries and cities with the highest and lowest purchases. Also see profit and loss.					
 
-3) Behavior of earnings over time. Do they increase or decrease?					
+3. Behavior of earnings over time. Do they increase or decrease?					
 
-4) Market where there are more purchases made and where there are more profits.					
+4. Market where there are more purchases made and where there are more profits.					
 
-5) Categories and subcategories with the highest sales, also which ones generate the most profits.
+5. Categories and subcategories with the highest sales, also which ones generate the most profits.
 				
-6) Product with the most sales per year.
+6. Product with the most sales per year.
 
-7) Customer segment with the highest profitability.	
+7. Customer segment with the highest profitability.	
 
-8) Clients with greater profitability per year.	
+8. Clients with greater profitability per year.	
 
-9) Relationship between the certain properties of the orders with their respective sales.
+9. Relationship between the certain properties of the orders with their respective sales.
 
-10) Do frequent customers contribute to higher income?
+10. Do frequent customers contribute to higher income?
 
 --------------------------------------------------------------------------------------------------
 
@@ -56,15 +56,17 @@ c. The countries with the lowest purchases are: Bahrain, Burundi, Central Africa
 
 d. New York is the city that generates the greatest profits and at the same time the one that has the most purchases.				
 
-3- From 2011 to 2014 there is an increase in both profits and sales volume. The 2011-2012 interval is the one in which there is an increase in both but not as pronounced as the others.
+3- 
 
-4) 
+From 2011 to 2014 there is an increase in both profits and sales volume. The 2011-2012 interval is the one in which there is an increase in both but not as pronounced as the others.
+
+4- 
 
 a. The market with the most sales was APAC (Asia-Pacific) while the one with the least was Canada.
 
 b. The market that generated the greatest profits was LATAM (Latin America) while the one that produced the most losses was EMEA (Europe, the Middle East and Africa).
 
-5)	
+5-	
 
 a. The category that had the most purchases was Office Supplies and the one that generated the greatest profits was Technology by a large difference compared to the others.				
 
@@ -74,11 +76,15 @@ c. The Furniture category was the only one of these that generated losses.
 
 d. The subcategories that produced losses were Bookcases, Tables, Fasteners and Supplies.					
 
-6)	From 2011 to 2014, the best-selling product was Staples with an average of 57 units sold per year.
+6-	
 
-7)	The customer segment with the highest profitability was Consumer, by far the difference with respect to the other two.
+From 2011 to 2014, the best-selling product was Staples with an average of 57 units sold per year.
 
-8)	
+7-	
+
+The customer segment with the highest profitability was Consumer, by far the difference with respect to the other two.
+
+8-	
 
 a. In 2011, the most profitable client was Vivek Grady with 68 million.
 
@@ -88,7 +94,7 @@ c. In 2013, the most profitable client was Emily Phan with 67 million.
 
 d. In 2014, the most profitable client was Hunter Lopez with 73 million.				
 
-9)	
+9-	
 
 a. The priority order to which the most sales were assigned was Medium.				
 
@@ -98,7 +104,7 @@ c. Third, the Critical priority order continues.
 
 d. Finally, the priority order to which the least sales were assigned was Low.				
 
-10)	
+10-	
 
 Based on the observation of the scatter graph made, which related the amount of sales and profits/losses.				
 Come to the conclusion that customers who buy more frequently do not necessarily contribute to higher income.
