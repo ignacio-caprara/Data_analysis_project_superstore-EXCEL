@@ -35,7 +35,7 @@ This project aims to understand, analyze and visualize behaviors on data recorde
 
 ## Conclusions:
 
-1) 
+1- 
 
 a. The Same Day shipping type is made on the same day that the order is placed.	
 
