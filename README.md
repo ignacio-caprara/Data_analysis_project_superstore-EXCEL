@@ -1,4 +1,4 @@
-# Project SuperStore 🏪 - Using EXCEL
+# Project "Global SuperStore" 🏪 - Using EXCEL
 
 ## Motivation
 I embarked on this project to delve into the world of data analysis using Excel and showcase my skills in exploring and extracting valuable insights from complex datasets. The "Global Super Store Dataset" Database, with its rich and comprehensive collection of a superstore data, provided the perfect opportunity to apply Excel techniques and gain practical experience in data manipulation, aggregation, and analysis.
@@ -46,7 +46,7 @@ c. In the Second Class shipping type, there is usually a period of three days fr
 d. In the Standard Class shipping type, it takes the longest. There is approximately a period of five days from the order to its corresponding shipment.				
 				
 
-2)	
+2) 
 
 a. United States is the country that generates the greatest profits and also the most purchases.
 
@@ -56,7 +56,7 @@ c. The countries with the lowest purchases are: Bahrain, Burundi, Central Africa
 
 d. New York is the city that generates the greatest profits and at the same time the one that has the most purchases.				
 
-3)	From 2011 to 2014 there is an increase in both profits and sales volume. The 2011-2012 interval is the one in which there is an increase in both but not as pronounced as the others.
+3) From 2011 to 2014 there is an increase in both profits and sales volume. The 2011-2012 interval is the one in which there is an increase in both but not as pronounced as the others.
 
 4) 
 
