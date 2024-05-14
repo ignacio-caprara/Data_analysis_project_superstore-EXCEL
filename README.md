@@ -1,4 +1,4 @@
-# Project_SuperStore 🏪 - Using EXCEL
+# Project SuperStore 🏪 - Using EXCEL
 
 ## Motivation
 I embarked on this project to delve into the world of data analysis using Excel and showcase my skills in exploring and extracting valuable insights from complex datasets. The "Global Super Store Dataset" Database, with its rich and comprehensive collection of a superstore data, provided the perfect opportunity to apply Excel techniques and gain practical experience in data manipulation, aggregation, and analysis.
