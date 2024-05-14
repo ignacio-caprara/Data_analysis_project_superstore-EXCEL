@@ -43,8 +43,7 @@ b. In the First Class shipping type, there is usually a period of two days from 
 
 c. In the Second Class shipping type, there is usually a period of three days from the order to its corresponding shipment.
 
-d. In the Standard Class shipping type, it takes the longest. There is approximately a period of five days from the order to its corresponding shipment.				
-				
+d. In the Standard Class shipping type, it takes the longest. There is approximately a period of five days from the order to its corresponding shipment.							
 
 2- 
 
